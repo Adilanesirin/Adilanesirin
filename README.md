@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi 👋 I'm Adila Nezrin
 
-<!--
-**Adilanesirin/Adilanesirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React Native Developer from Kerala, India 🇮🇳
 
-Here are some ideas to get you started:
+📱 1+ Years Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Published Apps on Google Play
+
+💼 IMCBS LLP
+
+---
+
+## About Me
+
+• React Native
+• TypeScript
+• Expo
+• Supabase
+• SQLite
+• REST APIs
+• Google Gemini API
+• Offline First Apps
+
+---
+
+## Published Apps
+
+📱 MYIMC
+Business Management Solution
+
+📱 MagnetPro
+School ERP Application
+
+---
+
+## Tech Stack
+
+React Native
+TypeScript
+Expo
+Supabase
+SQLite
+REST API
+Firebase
+
+---
+
+## Currently Learning
+
+Backend Development
+
+Node.js
+
+Express
+
+PostgreSQL
+
+Advanced Supabase
+
+---
+
+## Connect with Me
+
+LinkedIn
+
+GitHub
